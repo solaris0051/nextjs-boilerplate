@@ -9,16 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
-=======
-    "next": "13.3.1",
->>>>>>> 6a67659492a56af2a7482411dd3c17d3b81e39ea
-    "next": "13.3.0",
+    "next": "13.3.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
     "eslint": "8.39.0",
-    "eslint-config-next": "^13.3.1"
+    "eslint-config-next": "^13.3.2"
   }
 }
